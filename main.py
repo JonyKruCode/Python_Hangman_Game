@@ -1,6 +1,5 @@
 import re # модуль для работы с регулярными выражениями
 import random # модуль для генерации случайного числа
-from distutils.command.clean import clean
 
 # количество попыток
 attempt_counter = 0
